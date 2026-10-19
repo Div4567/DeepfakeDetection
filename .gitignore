@@ -1,0 +1,20 @@
+.venv
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+
+# Datasets
+data/
+*.wav
+*.mp4
+*.avi
+*.mkv
+
+# Model files
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.onnx
